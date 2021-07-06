@@ -1,0 +1,2 @@
+learing_communication
+-DCATKIN_DEVEL_PREFIX=/home/zhuda/ros_csdn/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zhuda/ros_csdn/catkin_ws/install -G Unix Makefiles

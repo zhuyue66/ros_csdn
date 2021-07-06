@@ -1,0 +1,9 @@
+# 定义动作ID
+uint32 dishwasher_id  # Specify which dishwasher we want to use
+---
+# 定义结果消息(是否完成)
+uint32 total_dishes_cleaned
+---
+# 定义反馈的百分比
+float32 percent_complete
+

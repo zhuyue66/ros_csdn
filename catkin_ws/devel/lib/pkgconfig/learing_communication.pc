@@ -1,0 +1,8 @@
+prefix=/home/zhuda/ros_csdn/catkin_ws/devel
+
+Name: learing_communication
+Description: Description of learing_communication
+Version: 0.0.0
+Cflags: -I/home/zhuda/ros_csdn/catkin_ws/devel/include -I/home/zhuda/ros_csdn/catkin_ws/src/learing_communication/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime
